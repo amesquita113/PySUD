@@ -1,0 +1,4 @@
+Catacombs Room
+	The room is poorly lit, there is just enough light seeping in through
+the stone walls for you to see.  The air is thick with the smell of death and
+decay, the walls stained with blood from recent battles.

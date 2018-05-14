@@ -1,0 +1,16 @@
+       PySUD MAP
+
+         North  
+  +-------------------+
+  |    XX XX     XX   |
+  | X XXw XX X    X   |    w - Wolfgars Weapon shop
+  |X   XX XX          |
+ W| X  XX XX  XXXX X  |E   
+ e|  X f   c     X X X|a   f - Forest Entrance  c - Catacombs Entrance
+ s| X  XX XX X  XXXX X|s
+ t|   XXX XX X   X    |t
+  | X  Xa XX     X    |    a - Dwarven Armor shop
+  |X  XXX XX   XXX X X|
+  |    XX XX X     X X|
+  +-------------------+
+         South

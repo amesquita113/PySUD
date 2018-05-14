@@ -1,0 +1,26 @@
+Welcome to the PySUD Message of the Day!
+
+
+New game features
+
+04/14/18
+- Code added to github repository PySUD
+09/10/11:
+- Removed the gold listing from the top players ranking.
+- Combat command system revamped!  You can now directly input the number
+  of the special attack to use right at the combat prompt instead of
+  displaying the list then selecting the ability.
+- Command prompt revised to show Health:Attack Points so you can keep
+  track of both at all times.
+- Monster DB updated with monsters up to level 10.
+- 'MAP' command added to view map.
+
+Old News:
+- Grazing blows that do 1/2 damage have been added to reduce your miss chance
+- New ressurection feature has been added, offer gold to the gods to spare
+  your measly lives!
+- Health increase per level has been doubled!
+- BUY, SELL, EQUIP commands updated to take input directly from the prompt
+  instead of opening a new prompt and asking for items.
+- Top 5 players board added, use 'RANK' command to view in-game
+- Weapon damage, and attack bonuses now shown in 'STATS'

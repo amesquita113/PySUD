@@ -1,0 +1,5 @@
+Main Street
+	The street runs north to south through the center of town.  It's busy
+with merchants and their perspective customers.  Shops line the sides of the
+street selling trinkets and baubles for the locals.  If you needed any to buy
+equipment, this is the street you will find it on.

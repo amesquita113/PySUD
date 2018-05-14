@@ -1,0 +1,18 @@
+Command help:
+
+	LOOK  - Looks around the room
+	LEVEL - Shows how much XP needed to level
+	LIST  - Lists the items for sale in a shop
+	BUY   - Buys an item when in a shop
+	SELL  - Sells an item when in a shop
+	STATS - Lists your current stats
+	CAMP  - Setup camp and logs you out of the game
+	REST  - Rests to recover health (1 health/second)
+	EQUIP - Equips a weapon or armor
+	MAP   - Displays a zone map
+	INVENTORY - Lists what you have on your person
+
+	N - Moves north
+	S - Moves south
+	E - Moves east
+	W - Moves west

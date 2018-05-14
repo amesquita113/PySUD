@@ -1,0 +1,6 @@
+Town Square
+	The town square is alive with activity.  A bard sits in the center of
+the square playing the lute and singing of great heros.  Townsfolk are 
+drinking and mingling, it appears there must be some sort of festival going 
+on.  Main St. runs north and south through the square and Center St. runs east
+and west.

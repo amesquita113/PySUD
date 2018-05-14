@@ -1,0 +1,5 @@
+Forest Entrance
+	The forest lies ahead to the West.  The brush is thick, but you can
+see paths cutting their way through in various directions.  Although the 
+forest is lush, green and beautiful, you know danger lies within.  Center St.
+lies to the east.

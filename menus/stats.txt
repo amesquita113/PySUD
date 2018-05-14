@@ -1,0 +1,14 @@
+Here is a brief description of the stats used in PySUD:
+
+Strength:	Strength is your main damage dealing stat for Fighters.  The
+		more strenght you have, the harder you hit.
+		
+Dexterity:	Your reflexes, balance and hand/eye coordination.  Good stat
+		for light armor wearers to increase their Armor Class.  Used
+		by all classes for initiative rolls.
+
+Constitution:	Your characters health and stamina.  More constitution means
+		a sturdy character with higher health.
+
+Wisdom:		Wisdom is the main damage dealing stat for Sorcerers.  The
+		more wisdom you have, the more damage your spells do.

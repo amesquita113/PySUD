@@ -1,0 +1,5 @@
+Dwarven Armor Shop
+	The shop is dimly light, most of the light coming in from the flames
+of the forges.  Sounds of hammers striking anvils fill the room, and the smell
+of dwarven ale and sweat is thick in the air.  A surly dwarf stands behind a 
+small counter, fine suits of armor line the shop behind him.

@@ -1,0 +1,15 @@
+In PySUD there is 2 classes you can choose from:
+
+1 - Fighter:	A fighter is a melee warrior, they fight up close and
+		personal. They are hearty and strong, with high survivability
+		at the cost of taking a bit longer to kill their enemies. 
+		High health, strength and constitution are important to a
+		fighter. Strenght will make their attacks hit harder, while
+		high constitution will raise their health.
+
+2 - Sorcerer:  	A Sorcerer is a deadly adversary, avoiding direct combat in
+		favour of nuking their enemies from afar.  What they lack in
+		survivability they make up for with the strength of their
+		deadly magic.  Wisdom is the stat of choice for highly 
+		offensive Sorcerers, while one needing a bit more survival
+		may want to put extra points into Dexterity or Charisma.

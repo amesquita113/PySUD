@@ -1,0 +1,4 @@
+# char_stats variable info
+# each character has 'name[0]' 'class[1]' 'armorclass[2]' 'level[3]' 'xp[4]' 'health[5]',
+# 'maxhealth[6]' 'str[7]' 'dexterity[8]' 'constitution[9]' 'wisdom[10]' 'Gold[11]' 'Password[12]'
+# 'x-location[13]', 'y-location[14]'
